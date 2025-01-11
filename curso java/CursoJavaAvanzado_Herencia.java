@@ -1,4 +1,4 @@
-class Animal { a
+class Animal { 
     String nombre;
     
     Animal(String nombre) {
